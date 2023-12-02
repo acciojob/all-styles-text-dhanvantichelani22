@@ -2,7 +2,7 @@
 .main{
 	width:200px;
 	background-color:purple;
-	border-left-style:5px green solid;
+	border-left-color:green;
 	border-left-width:5px;
 	padding:10px;
 	font-size:20px;
